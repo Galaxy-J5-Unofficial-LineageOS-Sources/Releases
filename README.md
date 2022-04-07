@@ -12,11 +12,11 @@
 |    RIL  (includes mobile-data, calls,...)                 |                          |  ✗                     |
 |   Bluetooth (includes audio input)   |   ✓                        |                       |
 |    Sensors (proximity & accelerometer)|   ✓                        |                       |
-|    GPS                |                          |     ✗                  |
+|    GPS                |  ✓                         |                       |
 |    NFC                |   ✓                        |                       |
 |    DRM (ClearKey 1.3)|   ✓                        |                       |
 |    Widevine (v15.0.0) (L3)|   ✓                        |                       |
-|    Camera (Photos, video recording) |                         |  ✗                     |
+|    Camera (Photos, video recording) |  ✓                       |                      |
 |    Torch                |   ✓                        |                       |
 |    Screen ( Touch, Rotation, LiveDisplay) |   ✓                        |                       |
 |    FM Radio                |   ✓                        |                       |
