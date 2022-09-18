@@ -8,8 +8,8 @@
 
 | Hardware/Service        | Working                    | Not Working           |
 | :---------------------- |:----------------------     |:----------------------|
-|    Wi-Fi                |                            |          ✗            |
-|    RIL  (includes mobile-data, calls,...)                 |                          |  ✗                     |
+|    Wi-Fi                |          ✓                 |                       |
+|    RIL  (includes mobile-data, calls,...)                 |         ✓                |                        |
 |   Bluetooth (includes audio input)   |   ✓                        |                       |
 |    Sensors (proximity & accelerometer)|   ✓                        |                       |
 |    GPS                |  ✓                         |                       |
@@ -21,6 +21,6 @@
 |    Screen ( Touch, Rotation, LiveDisplay) |   ✓                        |                       |
 |    FM Radio                |   ✓                        |                       |
 |    Miracast                |   ✓                        |                       |
-|    Hotspot                |                           |   ✗                    |
+|    Hotspot                |               ✓            |                        |
 |    VoLTE                |                         |      ✗                 |
 <br/>
